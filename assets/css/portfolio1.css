@@ -181,10 +181,11 @@ input[type=submit]:hover {
 }
 
 .portfolioimages {
-    height: 190px;
-    width: 250px;
+    height: 195px;
+    width: 275px;
     margin-left: 40px;
     margin-top: 10px;
+    border: black 1px;
 
 
 
