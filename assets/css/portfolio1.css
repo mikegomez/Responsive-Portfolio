@@ -60,7 +60,7 @@
 .nested2 {
     position: absolute;
     width: 650px;
-    height: 475px;
+    height: 510px;
     background-color: floralwhite;
     margin-left: 140px;
     margin-top: 50px;
@@ -182,7 +182,7 @@ input[type=submit]:hover {
 
 .portfolioimages {
     height: 190px;
-    width: 200px;
+    width: 225px;
     margin-left: 40px;
     margin-top: 10px;
 
